@@ -6,3 +6,16 @@ Before training:
 
 After training:
 ![image](https://github.com/astralillusion/Acrobot/edit/master/after_training.gif ) 
+
+## Dependencies
+* Python 3.6+
+* NumPy
+* Matplotlib
+* OpenAI Gym
+* TensorFlow
+
+## How to run
+```
+python learning_acrobot.py
+```
+Close plot if necessary.
