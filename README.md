@@ -1,5 +1,5 @@
 # Solving gym Acrobot-v1 using policy gradient
-Lightweight solution to gym Acrobot-v1 using policy gradient
+Lightweight solution to gym Acrobot-v1 using Monte-Carlo policy gradient method with a policy network
 
 Before training:
 ![image](https://github.com/astralillusion/Acrobot/edit/master/before_training.gif ) 
