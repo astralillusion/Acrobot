@@ -1,4 +1,4 @@
-# Acrobot
+# Solving gym Acrobot-v1 using policy gradient
 Lightweight solution to gym Acrobot-v1 using policy gradient
 
 Before training:
